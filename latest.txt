@@ -1,0 +1,3 @@
+0.4.1
+https://github.com/fartyiyt-droid/Lupshot-updates/releases/download/v0.4.1/Lupshot-Setup.exe
+2dbe6b7d4dbd3a4e33f853c0fcf9a5ad7d4c4180389863d8f61ea6f9949da310
